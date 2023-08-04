@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "0860d7d4-6b78-4946-89bf-3dda55afc1a9",
+            "collectionId": "Italian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Italian/0860d7d4-6b78-4946-89bf-3dda55afc1a9_it_Female.mp4"
+        },
+        {
+            "id": "654c005c-e0de-40c0-855f-3a10b0e47af7",
+            "collectionId": "Italian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Italian/654c005c-e0de-40c0-855f-3a10b0e47af7_it_Female.mp4"
+        }
+    ]
+}
